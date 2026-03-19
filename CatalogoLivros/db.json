@@ -1,0 +1,26 @@
+{
+  "livros": [
+    {
+      "id": "2",
+      "titulo": "O Diário de Anne Frank",
+      "paginas": 283,
+      "categoria": "biografia",
+      "descricao": "O Diário de Anne Frank é um livro que reúne os escritos de Anne Frank, uma jovem judia que se escondeu com sua família durante a ocupação nazista na Segunda Guerra Mundial."
+    },
+    {
+      "id": "3",
+      "titulo": "It - A Coisa",
+      "paginas": 1138,
+      "categoria": "Terror",
+      "descricao": "It é um romance de terror escrito por Stephen King. A história gira em torno de um grupo de crianças em uma cidade fictícia chamada Derry, que são assombradas por uma entidade maléfica conhecida como 'A Coisa'."
+    },
+    {
+      "id": "3539",
+      "titulo": "Harry Potter",
+      "paginas": "322",
+      "categoria": "Ficção",
+      "descricao": ""
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
