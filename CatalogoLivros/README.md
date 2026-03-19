@@ -1,16 +1,39 @@
-# React + Vite
+# 📚 Catálogo de Livros — CRUD com React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Projeto de catálogo de livros desenvolvido com React JS e Axios, consumindo uma API REST local com json-server. Permite listar, adicionar, editar e excluir livros de forma dinâmica.
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+# 🚀 Tecnologias Utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+React JS — Biblioteca para construção de interfaces
+
+Axios — Cliente HTTP para consumo de API
+
+JavaScript ES6+ — Linguagem de programação
+
+json-server — API REST fake para desenvolvimento
+
+React Router DOM — Navegação entre páginas
+
+Bootstrap — Estilização dos componentes
+
+
+
+# 📋 Funcionalidades
+
+
+✅ Listar todos os livros cadastrados
+
+✅ Adicionar novo livro
+
+✅ Editar livro existente
+
+✅ Excluir livro com confirmação
+
+✅ Atualização automática da lista após cada operação
+
+
